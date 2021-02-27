@@ -1,6 +1,4 @@
 <html><head>
- heroku create --buildpack heroku/ruby
-
 <title>Covid-19</title>
 </head>
 
